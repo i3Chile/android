@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/asd"
+    android:orientation="vertical" >
+
+<Button
+    android:layout_width="147dp"
+    android:layout_height="wrap_content"
+    android:layout_x="10dp"
+    android:layout_y="11dp"
+    android:onClick="aplanificacion"
+    android:text="Planificacion" />
+
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="162dp"
+    android:layout_y="10dp"
+    android:onClick="lanzarcontrol"
+    android:text="Control" />
+    
+</AbsoluteLayout>

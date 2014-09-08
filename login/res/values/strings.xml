@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login</string>
+    <string name="action_settings">Settings</string>
+	<string name="Encargado" >Encargado</string>
+	<string name="Empresa" >Empresa</string>
+	<string name="Actividad" >Actividad</string>
+	<string name="Riesgo" >Riesgo</string>
+	<string name="Lugar" >Lugar</string>
+	<string name="Ingresar" >Ingresar</string>
+	<string name="numero_de_trabajadores">numero de trabajadores</string>
+	<string name="Casco">Casco</string>
+	<string name="Guantes">Guantes</string>
+	<string name="Reflectante">Reflectante</string>
+	<string name="Antiparra">Antiparra</string>
+	<string name="Arnes_de_seguridad">Arnes de seguridad</string>
+	<string name="Zapatos_de_seguridad">Zapatos de seguridad</string>
+	<string name="Nombre_del_trabajador">Nombre del trabajador</string>
+	<string name="Equipo_de_proteccion_personal">Equipo de proteccion personal</string>
+	<string name="Controlar">controlar</string>
+</resources>
